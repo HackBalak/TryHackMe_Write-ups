@@ -102,7 +102,7 @@ Nmap done: 1 IP address (1 host up) scanned in 35.51 seconds
 ### Dirsearch :
 
 ```sh
-└──╼ $dirsearch -u 10.10.222.225 -e *
+└──╼ $dirsearch -u <machine-ip> -e *
 
   _|. _ _  _  _  _ _|_    v0.4.0
  (_||| _) (/_(_|| (_| )
@@ -159,7 +159,7 @@ OpenCL API (OpenCL 1.2 pocl 1.5, None+Asserts, LLVM 9.0.1, RELOC, SLEEF, DISTRO,
 
 we will need that password later .
 
-Browse to http://10.10.175.120/admin/ 
+Browse to http://<machine-ip>/admin/ 
 
 ![image-20210125204342279](Untitled.assets/image-20210125204342279.png)
 

@@ -12,7 +12,7 @@ A box involving encrypted archives, source code analysis and more.
 ### Namp scan :
 
 ```sh
-└──╼ $nmap -vv -A 1<machine-ip>
+└──╼ $nmap -vv -A <machine-ip>
 Starting Nmap 7.91 ( https://nmap.org ) at 2021-01-25 17:20 +01
 NSE: Loaded 153 scripts for scanning.
 NSE: Script Pre-scanning.

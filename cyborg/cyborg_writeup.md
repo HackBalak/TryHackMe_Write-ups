@@ -159,7 +159,7 @@ OpenCL API (OpenCL 1.2 pocl 1.5, None+Asserts, LLVM 9.0.1, RELOC, SLEEF, DISTRO,
 
 we will need that password later .
 
-Browse to http://<machine-ip>/admin/ 
+Browse to http://${machine-ip}/admin/ 
 
 ![image-20210125204342279](Untitled.assets/image-20210125204342279.png)
 

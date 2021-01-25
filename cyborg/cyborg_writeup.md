@@ -5,8 +5,7 @@ A box involving encrypted archives, source code analysis and more.
 ![image-20210125203617103](Untitled.assets/image-20210125203617103.png)
 
 ------
-
-[TOC]
+[Room link](https://tryhackme.com/room/cyborgt8)
 
 
 

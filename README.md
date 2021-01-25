@@ -1,14 +1,16 @@
 # TryHackMe Write-ups :
 
 This repository is a collection of all the writeups that I have written for each and every room/machine that I have solved.
+
 ## Author
 
 ​	[Om4r3lpentester](https://tryhackme.com/p/Om4r3lpentester)
+
 ------
 
 
 
-### Liste of solved rooms :
+### List of solved rooms :
 
 
 

@@ -28,15 +28,17 @@ It contain a lot of  rooms, which are virtual classrooms dedicated  to particula
 
  Here is a list of my writeups of tryhackme rooms.
 
-|                          Room Name                           |                          Topics                          |   Difficulty   |                         Description                          |
-| :----------------------------------------------------------: | :------------------------------------------------------: | :------------: | :----------------------------------------------------------: |
-| [Chocolate Factory](https://github.com/Itatshi19/TryHackMe_Write-ups/blob/main/Chocolate_Factory/writeup.md) |       ctf,recon, enumeration,privilege escalation        |      Easy      | A Charlie And The Chocolate Factory themed room, revisit Willy Wonka's chocolate factory! |
-| [Cyborg](https://github.com/Itatshi19/TryHackMe_Write-ups/blob/main/cyborg/cyborg_writeup.md) | ctf,recon, borg backup ,enumeration,privilege escalation | Easy to Meduim | A box involving encrypted archives, source code analysis and more. |
-|                                                              |                                                          |                |                                                              |
-|                                                              |                                                          |                |                                                              |
-|                                                              |                                                          |                |                                                              |
-|                                                              |                                                          |                |                                                              |
-|                                                              |                                                          |                |                                                              |
-|                                                              |                                                          |                |                                                              |
-|                                                              |                                                          |                |                                                              |
+
+| Room Name                                                    | Topics                                                       | Difficulty     | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ |
+| [Chocolate Factory](https://github.com/Itatshi19/TryHackMe_Write-ups/blob/main/Chocolate_Factory/writeup.md) | ctf,recon, enumeration,privilege escalation                  | Easy           | A Charlie And The Chocolate Factory themed room, revisit Willy Wonka's chocolate factory! |
+| [Cyborg](https://github.com/Itatshi19/TryHackMe_Write-ups/blob/main/cyborg/cyborg_writeup.md) | ctf,recon, borg backup ,enumeration,privilege escalation     | Easy to Meduim | A box involving encrypted archives, source code analysis and more. |
+| [Sustah](https://github.com/Itatshi19/TryHackMe_Write-ups/blob/main/Sustah/Sustah_writeup.md) | ctf,recon,CMS exploit, scripting , Rate Limite Bypass , Brute-force, privilege escalation | Meduim         | The developers have added anti-cheat measures to their game. Are you  able to defeat the restrictions to gain access to their internal CMS? |
+|                                                              |                                                              |                |                                                              |
+|                                                              |                                                              |                |                                                              |
+|                                                              |                                                              |                |                                                              |
+|                                                              |                                                              |                |                                                              |
+|                                                              |                                                              |                |                                                              |
+|                                                              |                                                              |                |                                                              |
+
 

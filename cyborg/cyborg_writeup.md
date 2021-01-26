@@ -1,4 +1,4 @@
-# THM | Cyborg
+# THM | Cyborg Write-up
 
 A box involving encrypted archives, source code analysis and more.
 
